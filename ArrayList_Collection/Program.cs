@@ -22,6 +22,7 @@ namespace ArrayList_Collection
             array.Add(60);
             Console.WriteLine(array.Capacity);
 
+            Console.WriteLine("Added project to the GitHub Repository !");
             
             foreach (object i in array)
             {
